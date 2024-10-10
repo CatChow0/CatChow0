@@ -5,6 +5,8 @@
 ## 💻 Game tech stack 
 ![](https://skillicons.dev/icons?i=godot,unreal,unity,vscode,visualstudio,github,cpp,c,cs,py)
 
+![](https://raw.githubusercontent.com/CatChow0/khaotic-engine-Reborn/refs/heads/main/enginecustom/KhaoticIcon.ico)
+
 ## 🌍 Web tech stack
 ![](https://skillicons.dev/icons?i=dart,vscode,html,css,sass,javascript,php,mysql,react,firebase,postman,stackoverflow)
 
