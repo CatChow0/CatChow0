@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**CatChow0/CatChow0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/theshibadoggo)
 
-Here are some ideas to get you started:
+## 💻 Game tech stack 
+![](https://skillicons.dev/icons?i=godot,unreal,unity,vscode,visualstudio,github,cpp,c,cs,py)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Web tech stack
+![](https://skillicons.dev/icons?i=dart,vscode,html,css,sass,javascript,php,mysql,react,firebase,postman,stackoverflow)
+
+## Other tech stack
+
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,notion,git,npm,gmail,markdown,bash,discordjs,bots,discord,gcp,tensorflow)
+
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)   <br>
+
+# 🔗 Other links :
+https://catchow.itch.io/
