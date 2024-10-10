@@ -3,8 +3,10 @@
 
 ## 💻 Game tech stack 
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://raw.githubusercontent.com/CatChow0/khaotic-engine-Reborn/refs/heads/main/enginecustom/KhaoticIcon.ico" alt="Khaotic Icon" style="height: 5vw; max-height: 64px; margin-right: 10px;">
-  <img src="https://skillicons.dev/icons?i=godot,unreal,unity,vscode,visualstudio,github,cpp,c,cs,py" alt="Game tech stack" style="height: 5vw; max-height: 64px;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/CatChow0/khaotic-engine-Reborn/refs/heads/main/enginecustom/KhaoticIcon.ico" alt="Khaotic Icon" style="height: 5vw; max-height: 64px; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=godot,unreal,unity,vscode,visualstudio,github,cpp,c,cs,py" alt="Game tech stack" style="height: 5vw; max-height: 64px;">
+  </div>
 </div>
 
 ## 🌍 Web tech stack
