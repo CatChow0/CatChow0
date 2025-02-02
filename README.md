@@ -4,7 +4,7 @@
 ## 💻 Game
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/CatChow0/khaotic-engine-Reborn/refs/heads/main/enginecustom/KhaoticIcon.ico" alt="Khaotic Icon" style="height: 64px; margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=godot,unreal,unity,vscode,visualstudio,github,cpp,c,cs,py" alt="Game tech stack" style="height: 64px; max-height: 64px;">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,rider,vscode,visualstudio,github,cpp,c,cs,py" alt="Game tech stack" style="height: 64px; max-height: 64px;">
 </div>
 
 ## 🌍 Web
@@ -14,7 +14,7 @@
 
 ## Other tech stack
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,notion,git,npm,gmail,markdown,bash,discordjs,bots,discord,gcp,tensorflow" alt="Other tech stack" style="height: 64px;">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,git,docker,notion,npm,gmail,markdown,bash,discordjs,bots,discord,gcp" alt="Other tech stack" style="height: 64px;">
 </div>
 
 <br>
