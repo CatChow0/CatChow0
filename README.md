@@ -21,6 +21,8 @@
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)   <br>
 
+## 📖 Portfolio
+[Voir le portfolio](https://portfolio.shiba-server.fr/html/projet.html)
+
 # 🔗 Other links :
 https://catchow.itch.io/
-
