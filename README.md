@@ -9,7 +9,7 @@
 
 ## 🌍 Web
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=nginx,html,css,sass,javascript,php,mysql,react,firebase,postman,stackoverflow" alt="Web tech stack" style="height: 64px;">
+  <img src="https://skillicons.dev/icons?i=nginx,html,css,sass,javascript,php,mysql,react,stackoverflow" alt="Web tech stack" style="height: 64px;">
 </div>
 
 ## Other tech stack
